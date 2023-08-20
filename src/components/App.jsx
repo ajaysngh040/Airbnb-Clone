@@ -1,6 +1,4 @@
-import React from "react";
 import "./styles.css";
-
 import LocationsTab from "./LocationsTab";
 import Header from "./Header";
 import Footer from "./Footer";
