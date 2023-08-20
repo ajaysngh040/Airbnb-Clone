@@ -1,7 +1,7 @@
 ### React + Vite
 
 
-##airbnb clone project
+# Airbnb clone project
 
 
 
@@ -22,6 +22,8 @@ Developed a fully responsive website, allowing users to access the platform acro
 
 ## Tools Used
 
+JAvascript
+HTML & CSS
 React 
 Vite
 Swiper Js
